@@ -1,0 +1,10 @@
+.htaccess
+robots.txt
+sitemap.xml
+
+app/views/inc/db.php
+app/config.php
+app/error_log
+
+nodeData/
+vendor/

@@ -1,0 +1,412 @@
+[14-Nov-2015 17:12:47 UTC] exception 'Slim\Exception\Stop' in /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php:1022
+Stack trace:
+#0 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1042): Slim\Slim->stop()
+#1 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1105): Slim\Slim->halt(302)
+#2 /home/minihosting/public_html/bitcoinmini.com/app/routes/inc/shipping.php(53): Slim\Slim->redirect('/checkout_detai...')
+#3 [internal function]: {closure}()
+#4 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Route.php(468): call_user_func_array(Object(Closure), Array)
+#5 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1357): Slim\Route->dispatch()
+#6 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Middleware/Flash.php(85): Slim\Slim->call()
+#7 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Middleware/MethodOverride.php(92): Slim\Middleware\Flash->call()
+#8 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#9 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1302): Slim\Middleware\PrettyExceptions->call()
+#10 /home/minihosting/public_html/bitcoinmini.com/index.php(17): Slim\Slim->run()
+#11 {main}
+[14-Nov-2015 17:56:01 UTC] exception 'Slim\Exception\Stop' in /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php:1022
+Stack trace:
+#0 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1042): Slim\Slim->stop()
+#1 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1105): Slim\Slim->halt(302)
+#2 /home/minihosting/public_html/bitcoinmini.com/app/routes/inc/shipping.php(53): Slim\Slim->redirect('/checkout_detai...')
+#3 [internal function]: {closure}()
+#4 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Route.php(468): call_user_func_array(Object(Closure), Array)
+#5 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1357): Slim\Route->dispatch()
+#6 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Middleware/Flash.php(85): Slim\Slim->call()
+#7 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Middleware/MethodOverride.php(92): Slim\Middleware\Flash->call()
+#8 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#9 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1302): Slim\Middleware\PrettyExceptions->call()
+#10 /home/minihosting/public_html/bitcoinmini.com/index.php(17): Slim\Slim->run()
+#11 {main}
+[14-Nov-2015 18:26:54 UTC] exception 'Slim\Exception\Stop' in /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php:1022
+Stack trace:
+#0 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1042): Slim\Slim->stop()
+#1 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1105): Slim\Slim->halt(302)
+#2 /home/minihosting/public_html/bitcoinmini.com/app/routes/inc/shipping.php(53): Slim\Slim->redirect('/checkout_detai...')
+#3 [internal function]: {closure}()
+#4 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Route.php(468): call_user_func_array(Object(Closure), Array)
+#5 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1357): Slim\Route->dispatch()
+#6 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Middleware/Flash.php(85): Slim\Slim->call()
+#7 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Middleware/MethodOverride.php(92): Slim\Middleware\Flash->call()
+#8 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#9 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1302): Slim\Middleware\PrettyExceptions->call()
+#10 /home/minihosting/public_html/bitcoinmini.com/index.php(17): Slim\Slim->run()
+#11 {main}
+[14-Nov-2015 19:06:38 UTC] exception 'Slim\Exception\Stop' in /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php:1022
+Stack trace:
+#0 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1042): Slim\Slim->stop()
+#1 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1105): Slim\Slim->halt(302)
+#2 /home/minihosting/public_html/bitcoinmini.com/app/routes/inc/shipping.php(53): Slim\Slim->redirect('/checkout_detai...')
+#3 [internal function]: {closure}()
+#4 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Route.php(468): call_user_func_array(Object(Closure), Array)
+#5 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1357): Slim\Route->dispatch()
+#6 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Middleware/Flash.php(85): Slim\Slim->call()
+#7 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Middleware/MethodOverride.php(92): Slim\Middleware\Flash->call()
+#8 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#9 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1302): Slim\Middleware\PrettyExceptions->call()
+#10 /home/minihosting/public_html/bitcoinmini.com/index.php(17): Slim\Slim->run()
+#11 {main}
+[14-Nov-2015 19:30:42 UTC] exception 'Slim\Exception\Stop' in /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php:1022
+Stack trace:
+#0 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1042): Slim\Slim->stop()
+#1 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1105): Slim\Slim->halt(302)
+#2 /home/minihosting/public_html/bitcoinmini.com/app/routes/inc/shipping.php(53): Slim\Slim->redirect('/checkout_detai...')
+#3 [internal function]: {closure}()
+#4 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Route.php(468): call_user_func_array(Object(Closure), Array)
+#5 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1357): Slim\Route->dispatch()
+#6 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Middleware/Flash.php(85): Slim\Slim->call()
+#7 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Middleware/MethodOverride.php(92): Slim\Middleware\Flash->call()
+#8 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#9 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1302): Slim\Middleware\PrettyExceptions->call()
+#10 /home/minihosting/public_html/bitcoinmini.com/index.php(17): Slim\Slim->run()
+#11 {main}
+[14-Nov-2015 19:39:36 UTC] exception 'Slim\Exception\Stop' in /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php:1022
+Stack trace:
+#0 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1042): Slim\Slim->stop()
+#1 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1105): Slim\Slim->halt(302)
+#2 /home/minihosting/public_html/bitcoinmini.com/app/routes/inc/shipping.php(53): Slim\Slim->redirect('/checkout_detai...')
+#3 [internal function]: {closure}()
+#4 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Route.php(468): call_user_func_array(Object(Closure), Array)
+#5 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1357): Slim\Route->dispatch()
+#6 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Middleware/Flash.php(85): Slim\Slim->call()
+#7 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Middleware/MethodOverride.php(92): Slim\Middleware\Flash->call()
+#8 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#9 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1302): Slim\Middleware\PrettyExceptions->call()
+#10 /home/minihosting/public_html/bitcoinmini.com/index.php(17): Slim\Slim->run()
+#11 {main}
+[14-Nov-2015 20:11:51 UTC] exception 'Slim\Exception\Stop' in /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php:1022
+Stack trace:
+#0 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1042): Slim\Slim->stop()
+#1 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1105): Slim\Slim->halt(302)
+#2 /home/minihosting/public_html/bitcoinmini.com/app/routes/inc/shipping.php(53): Slim\Slim->redirect('/checkout_detai...')
+#3 [internal function]: {closure}()
+#4 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Route.php(468): call_user_func_array(Object(Closure), Array)
+#5 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1357): Slim\Route->dispatch()
+#6 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Middleware/Flash.php(85): Slim\Slim->call()
+#7 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Middleware/MethodOverride.php(92): Slim\Middleware\Flash->call()
+#8 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#9 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1302): Slim\Middleware\PrettyExceptions->call()
+#10 /home/minihosting/public_html/bitcoinmini.com/index.php(17): Slim\Slim->run()
+#11 {main}
+[14-Nov-2015 20:22:11 UTC] exception 'Slim\Exception\Stop' in /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php:1022
+Stack trace:
+#0 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1042): Slim\Slim->stop()
+#1 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1105): Slim\Slim->halt(302)
+#2 /home/minihosting/public_html/bitcoinmini.com/app/routes/inc/shipping.php(53): Slim\Slim->redirect('/checkout_detai...')
+#3 [internal function]: {closure}()
+#4 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Route.php(468): call_user_func_array(Object(Closure), Array)
+#5 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1357): Slim\Route->dispatch()
+#6 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Middleware/Flash.php(85): Slim\Slim->call()
+#7 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Middleware/MethodOverride.php(92): Slim\Middleware\Flash->call()
+#8 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#9 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1302): Slim\Middleware\PrettyExceptions->call()
+#10 /home/minihosting/public_html/bitcoinmini.com/index.php(17): Slim\Slim->run()
+#11 {main}
+[14-Nov-2015 20:22:48 UTC] PHP Fatal error:  Call to undefined method PDO::insert() in /home/minihosting/public_html/bitcoinmini.com/app/routes/inc/payment.php on line 44
+[14-Nov-2015 21:08:57 UTC] exception 'Slim\Exception\Stop' in /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php:1022
+Stack trace:
+#0 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1042): Slim\Slim->stop()
+#1 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1105): Slim\Slim->halt(302)
+#2 /home/minihosting/public_html/bitcoinmini.com/app/routes/inc/shipping.php(53): Slim\Slim->redirect('/checkout_detai...')
+#3 [internal function]: {closure}()
+#4 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Route.php(468): call_user_func_array(Object(Closure), Array)
+#5 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1357): Slim\Route->dispatch()
+#6 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Middleware/Flash.php(85): Slim\Slim->call()
+#7 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Middleware/MethodOverride.php(92): Slim\Middleware\Flash->call()
+#8 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#9 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1302): Slim\Middleware\PrettyExceptions->call()
+#10 /home/minihosting/public_html/bitcoinmini.com/index.php(17): Slim\Slim->run()
+#11 {main}
+[14-Nov-2015 21:15:09 UTC] exception 'Slim\Exception\Stop' in /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php:1022
+Stack trace:
+#0 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1042): Slim\Slim->stop()
+#1 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1105): Slim\Slim->halt(302)
+#2 /home/minihosting/public_html/bitcoinmini.com/app/routes/inc/shipping.php(53): Slim\Slim->redirect('/checkout_detai...')
+#3 [internal function]: {closure}()
+#4 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Route.php(468): call_user_func_array(Object(Closure), Array)
+#5 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1357): Slim\Route->dispatch()
+#6 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Middleware/Flash.php(85): Slim\Slim->call()
+#7 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Middleware/MethodOverride.php(92): Slim\Middleware\Flash->call()
+#8 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#9 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1302): Slim\Middleware\PrettyExceptions->call()
+#10 /home/minihosting/public_html/bitcoinmini.com/index.php(17): Slim\Slim->run()
+#11 {main}
+[14-Nov-2015 21:27:19 UTC] exception 'Slim\Exception\Stop' in /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php:1022
+Stack trace:
+#0 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1042): Slim\Slim->stop()
+#1 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1105): Slim\Slim->halt(302)
+#2 /home/minihosting/public_html/bitcoinmini.com/app/routes/inc/shipping.php(53): Slim\Slim->redirect('/checkout_detai...')
+#3 [internal function]: {closure}()
+#4 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Route.php(468): call_user_func_array(Object(Closure), Array)
+#5 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1357): Slim\Route->dispatch()
+#6 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Middleware/Flash.php(85): Slim\Slim->call()
+#7 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Middleware/MethodOverride.php(92): Slim\Middleware\Flash->call()
+#8 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#9 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1302): Slim\Middleware\PrettyExceptions->call()
+#10 /home/minihosting/public_html/bitcoinmini.com/index.php(17): Slim\Slim->run()
+#11 {main}
+[14-Nov-2015 21:30:54 UTC] exception 'Slim\Exception\Stop' in /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php:1022
+Stack trace:
+#0 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1042): Slim\Slim->stop()
+#1 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1105): Slim\Slim->halt(302)
+#2 /home/minihosting/public_html/bitcoinmini.com/app/routes/inc/shipping.php(53): Slim\Slim->redirect('/checkout_detai...')
+#3 [internal function]: {closure}()
+#4 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Route.php(468): call_user_func_array(Object(Closure), Array)
+#5 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1357): Slim\Route->dispatch()
+#6 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Middleware/Flash.php(85): Slim\Slim->call()
+#7 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Middleware/MethodOverride.php(92): Slim\Middleware\Flash->call()
+#8 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#9 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1302): Slim\Middleware\PrettyExceptions->call()
+#10 /home/minihosting/public_html/bitcoinmini.com/index.php(17): Slim\Slim->run()
+#11 {main}
+[14-Nov-2015 23:22:38 UTC] {"error":"There was a problem with the insert."}
+[15-Nov-2015 02:08:13 UTC] exception 'Slim\Exception\Stop' in /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php:1022
+Stack trace:
+#0 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1042): Slim\Slim->stop()
+#1 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1105): Slim\Slim->halt(302)
+#2 /home/minihosting/public_html/bitcoinmini.com/app/routes/inc/shipping.php(53): Slim\Slim->redirect('/checkout_detai...')
+#3 [internal function]: {closure}()
+#4 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Route.php(468): call_user_func_array(Object(Closure), Array)
+#5 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1357): Slim\Route->dispatch()
+#6 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Middleware/Flash.php(85): Slim\Slim->call()
+#7 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Middleware/MethodOverride.php(92): Slim\Middleware\Flash->call()
+#8 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#9 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1302): Slim\Middleware\PrettyExceptions->call()
+#10 /home/minihosting/public_html/bitcoinmini.com/index.php(17): Slim\Slim->run()
+#11 {main}
+[15-Nov-2015 02:10:31 UTC] {"error":"There was a problem with the insert."}
+[15-Nov-2015 04:22:12 UTC] exception 'Slim\Exception\Stop' in /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php:1022
+Stack trace:
+#0 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1042): Slim\Slim->stop()
+#1 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1105): Slim\Slim->halt(302)
+#2 /home/minihosting/public_html/bitcoinmini.com/app/routes/inc/shipping.php(53): Slim\Slim->redirect('/checkout_detai...')
+#3 [internal function]: {closure}()
+#4 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Route.php(468): call_user_func_array(Object(Closure), Array)
+#5 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1357): Slim\Route->dispatch()
+#6 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Middleware/Flash.php(85): Slim\Slim->call()
+#7 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Middleware/MethodOverride.php(92): Slim\Middleware\Flash->call()
+#8 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#9 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1302): Slim\Middleware\PrettyExceptions->call()
+#10 /home/minihosting/public_html/bitcoinmini.com/index.php(17): Slim\Slim->run()
+#11 {main}
+[15-Nov-2015 04:22:49 UTC] {"error":"There was a problem with the insert."}
+[15-Nov-2015 05:38:22 UTC] exception 'Slim\Exception\Stop' in /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php:1022
+Stack trace:
+#0 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1042): Slim\Slim->stop()
+#1 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1105): Slim\Slim->halt(302)
+#2 /home/minihosting/public_html/bitcoinmini.com/app/routes/inc/shipping.php(53): Slim\Slim->redirect('/checkout_detai...')
+#3 [internal function]: {closure}()
+#4 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Route.php(468): call_user_func_array(Object(Closure), Array)
+#5 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1357): Slim\Route->dispatch()
+#6 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Middleware/Flash.php(85): Slim\Slim->call()
+#7 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Middleware/MethodOverride.php(92): Slim\Middleware\Flash->call()
+#8 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#9 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1302): Slim\Middleware\PrettyExceptions->call()
+#10 /home/minihosting/public_html/bitcoinmini.com/index.php(17): Slim\Slim->run()
+#11 {main}
+[15-Nov-2015 05:38:59 UTC] {"error":"There was a problem with the insert."}
+[15-Nov-2015 05:47:19 UTC] exception 'Slim\Exception\Stop' in /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php:1022
+Stack trace:
+#0 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1042): Slim\Slim->stop()
+#1 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1105): Slim\Slim->halt(302)
+#2 /home/minihosting/public_html/bitcoinmini.com/app/routes/inc/shipping.php(53): Slim\Slim->redirect('/checkout_detai...')
+#3 [internal function]: {closure}()
+#4 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Route.php(468): call_user_func_array(Object(Closure), Array)
+#5 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1357): Slim\Route->dispatch()
+#6 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Middleware/Flash.php(85): Slim\Slim->call()
+#7 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Middleware/MethodOverride.php(92): Slim\Middleware\Flash->call()
+#8 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#9 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1302): Slim\Middleware\PrettyExceptions->call()
+#10 /home/minihosting/public_html/bitcoinmini.com/index.php(17): Slim\Slim->run()
+#11 {main}
+[15-Nov-2015 05:47:56 UTC] {"error":"There was a problem with the insert."}
+[15-Nov-2015 18:43:41 UTC] exception 'Slim\Exception\Stop' in /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php:1022
+Stack trace:
+#0 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1042): Slim\Slim->stop()
+#1 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1105): Slim\Slim->halt(302)
+#2 /home/minihosting/public_html/bitcoinmini.com/app/routes/inc/shipping.php(53): Slim\Slim->redirect('/checkout_detai...')
+#3 [internal function]: {closure}()
+#4 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Route.php(468): call_user_func_array(Object(Closure), Array)
+#5 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1357): Slim\Route->dispatch()
+#6 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Middleware/Flash.php(85): Slim\Slim->call()
+#7 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Middleware/MethodOverride.php(92): Slim\Middleware\Flash->call()
+#8 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#9 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1302): Slim\Middleware\PrettyExceptions->call()
+#10 /home/minihosting/public_html/bitcoinmini.com/index.php(17): Slim\Slim->run()
+#11 {main}
+[15-Nov-2015 20:07:29 UTC] exception 'Slim\Exception\Stop' in /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php:1022
+Stack trace:
+#0 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1042): Slim\Slim->stop()
+#1 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1105): Slim\Slim->halt(302)
+#2 /home/minihosting/public_html/bitcoinmini.com/app/routes/inc/shipping.php(53): Slim\Slim->redirect('/checkout_detai...')
+#3 [internal function]: {closure}()
+#4 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Route.php(468): call_user_func_array(Object(Closure), Array)
+#5 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1357): Slim\Route->dispatch()
+#6 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Middleware/Flash.php(85): Slim\Slim->call()
+#7 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Middleware/MethodOverride.php(92): Slim\Middleware\Flash->call()
+#8 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#9 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1302): Slim\Middleware\PrettyExceptions->call()
+#10 /home/minihosting/public_html/bitcoinmini.com/index.php(17): Slim\Slim->run()
+#11 {main}
+[16-Nov-2015 22:41:56 UTC] exception 'Slim\Exception\Stop' in /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php:1022
+Stack trace:
+#0 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1042): Slim\Slim->stop()
+#1 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1105): Slim\Slim->halt(302)
+#2 /home/minihosting/public_html/bitcoinmini.com/app/routes/inc/shipping.php(53): Slim\Slim->redirect('/checkout_detai...')
+#3 [internal function]: {closure}()
+#4 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Route.php(468): call_user_func_array(Object(Closure), Array)
+#5 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1357): Slim\Route->dispatch()
+#6 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Middleware/Flash.php(85): Slim\Slim->call()
+#7 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Middleware/MethodOverride.php(92): Slim\Middleware\Flash->call()
+#8 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#9 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1302): Slim\Middleware\PrettyExceptions->call()
+#10 /home/minihosting/public_html/bitcoinmini.com/index.php(17): Slim\Slim->run()
+#11 {main}
+[16-Nov-2015 22:41:59 UTC] exception 'Slim\Exception\Stop' in /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php:1022
+Stack trace:
+#0 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1042): Slim\Slim->stop()
+#1 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1105): Slim\Slim->halt(302)
+#2 /home/minihosting/public_html/bitcoinmini.com/app/routes/inc/shipping.php(53): Slim\Slim->redirect('/checkout_detai...')
+#3 [internal function]: {closure}()
+#4 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Route.php(468): call_user_func_array(Object(Closure), Array)
+#5 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1357): Slim\Route->dispatch()
+#6 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Middleware/Flash.php(85): Slim\Slim->call()
+#7 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Middleware/MethodOverride.php(92): Slim\Middleware\Flash->call()
+#8 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#9 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1302): Slim\Middleware\PrettyExceptions->call()
+#10 /home/minihosting/public_html/bitcoinmini.com/index.php(17): Slim\Slim->run()
+#11 {main}
+[21-Nov-2015 21:13:41 UTC] exception 'Slim\Exception\Stop' in /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php:1022
+Stack trace:
+#0 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1042): Slim\Slim->stop()
+#1 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1105): Slim\Slim->halt(302)
+#2 /home/minihosting/public_html/bitcoinmini.com/app/routes/inc/shipping.php(53): Slim\Slim->redirect('/checkout_detai...')
+#3 [internal function]: {closure}()
+#4 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Route.php(468): call_user_func_array(Object(Closure), Array)
+#5 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1357): Slim\Route->dispatch()
+#6 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Middleware/Flash.php(85): Slim\Slim->call()
+#7 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Middleware/MethodOverride.php(92): Slim\Middleware\Flash->call()
+#8 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#9 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1302): Slim\Middleware\PrettyExceptions->call()
+#10 /home/minihosting/public_html/bitcoinmini.com/index.php(17): Slim\Slim->run()
+#11 {main}
+[26-Nov-2015 09:07:11 UTC] exception 'Slim\Exception\Stop' in /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php:1022
+Stack trace:
+#0 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1042): Slim\Slim->stop()
+#1 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1105): Slim\Slim->halt(302)
+#2 /home/minihosting/public_html/bitcoinmini.com/app/routes/inc/shipping.php(53): Slim\Slim->redirect('/checkout_detai...')
+#3 [internal function]: {closure}()
+#4 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Route.php(468): call_user_func_array(Object(Closure), Array)
+#5 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1357): Slim\Route->dispatch()
+#6 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Middleware/Flash.php(85): Slim\Slim->call()
+#7 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Middleware/MethodOverride.php(92): Slim\Middleware\Flash->call()
+#8 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#9 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1302): Slim\Middleware\PrettyExceptions->call()
+#10 /home/minihosting/public_html/bitcoinmini.com/index.php(17): Slim\Slim->run()
+#11 {main}
+[26-Nov-2015 09:07:41 UTC] exception 'Slim\Exception\Stop' in /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php:1022
+Stack trace:
+#0 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1042): Slim\Slim->stop()
+#1 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1105): Slim\Slim->halt(302)
+#2 /home/minihosting/public_html/bitcoinmini.com/app/routes/inc/shipping.php(53): Slim\Slim->redirect('/checkout_detai...')
+#3 [internal function]: {closure}()
+#4 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Route.php(468): call_user_func_array(Object(Closure), Array)
+#5 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1357): Slim\Route->dispatch()
+#6 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Middleware/Flash.php(85): Slim\Slim->call()
+#7 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Middleware/MethodOverride.php(92): Slim\Middleware\Flash->call()
+#8 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#9 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1302): Slim\Middleware\PrettyExceptions->call()
+#10 /home/minihosting/public_html/bitcoinmini.com/index.php(17): Slim\Slim->run()
+#11 {main}
+[28-Nov-2015 21:32:19 UTC] exception 'Slim\Exception\Stop' in /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php:1022
+Stack trace:
+#0 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1042): Slim\Slim->stop()
+#1 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1105): Slim\Slim->halt(302)
+#2 /home/minihosting/public_html/bitcoinmini.com/app/routes/inc/shipping.php(53): Slim\Slim->redirect('/checkout_detai...')
+#3 [internal function]: {closure}()
+#4 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Route.php(468): call_user_func_array(Object(Closure), Array)
+#5 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1357): Slim\Route->dispatch()
+#6 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Middleware/Flash.php(85): Slim\Slim->call()
+#7 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Middleware/MethodOverride.php(92): Slim\Middleware\Flash->call()
+#8 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#9 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1302): Slim\Middleware\PrettyExceptions->call()
+#10 /home/minihosting/public_html/bitcoinmini.com/index.php(17): Slim\Slim->run()
+#11 {main}
+[27-Dec-2015 03:56:28 UTC] exception 'Slim\Exception\Stop' in /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php:1022
+Stack trace:
+#0 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1042): Slim\Slim->stop()
+#1 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1105): Slim\Slim->halt(302)
+#2 /home/minihosting/public_html/bitcoinmini.com/app/routes/inc/shipping.php(53): Slim\Slim->redirect('/checkout_detai...')
+#3 [internal function]: {closure}()
+#4 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Route.php(468): call_user_func_array(Object(Closure), Array)
+#5 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1357): Slim\Route->dispatch()
+#6 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Middleware/Flash.php(85): Slim\Slim->call()
+#7 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Middleware/MethodOverride.php(92): Slim\Middleware\Flash->call()
+#8 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#9 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1302): Slim\Middleware\PrettyExceptions->call()
+#10 /home/minihosting/public_html/bitcoinmini.com/index.php(17): Slim\Slim->run()
+#11 {main}
+[29-Dec-2015 19:50:21 UTC] exception 'Slim\Exception\Stop' in /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php:1022
+Stack trace:
+#0 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1042): Slim\Slim->stop()
+#1 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1105): Slim\Slim->halt(302)
+#2 /home/minihosting/public_html/bitcoinmini.com/app/routes/inc/shipping.php(53): Slim\Slim->redirect('/checkout_detai...')
+#3 [internal function]: {closure}()
+#4 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Route.php(468): call_user_func_array(Object(Closure), Array)
+#5 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1357): Slim\Route->dispatch()
+#6 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Middleware/Flash.php(85): Slim\Slim->call()
+#7 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Middleware/MethodOverride.php(92): Slim\Middleware\Flash->call()
+#8 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#9 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1302): Slim\Middleware\PrettyExceptions->call()
+#10 /home/minihosting/public_html/bitcoinmini.com/index.php(17): Slim\Slim->run()
+#11 {main}
+[05-Jan-2016 20:07:47 UTC] exception 'Slim\Exception\Stop' in /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php:1022
+Stack trace:
+#0 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1042): Slim\Slim->stop()
+#1 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1105): Slim\Slim->halt(302)
+#2 /home/minihosting/public_html/bitcoinmini.com/app/routes/inc/shipping.php(53): Slim\Slim->redirect('/checkout_detai...')
+#3 [internal function]: {closure}()
+#4 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Route.php(468): call_user_func_array(Object(Closure), Array)
+#5 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1357): Slim\Route->dispatch()
+#6 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Middleware/Flash.php(85): Slim\Slim->call()
+#7 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Middleware/MethodOverride.php(92): Slim\Middleware\Flash->call()
+#8 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#9 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1302): Slim\Middleware\PrettyExceptions->call()
+#10 /home/minihosting/public_html/bitcoinmini.com/index.php(17): Slim\Slim->run()
+#11 {main}
+[10-Jan-2016 09:17:46 UTC] exception 'Slim\Exception\Stop' in /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php:1022
+Stack trace:
+#0 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1042): Slim\Slim->stop()
+#1 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1105): Slim\Slim->halt(302)
+#2 /home/minihosting/public_html/bitcoinmini.com/app/routes/inc/shipping.php(53): Slim\Slim->redirect('/checkout_detai...')
+#3 [internal function]: {closure}()
+#4 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Route.php(468): call_user_func_array(Object(Closure), Array)
+#5 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1357): Slim\Route->dispatch()
+#6 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Middleware/Flash.php(85): Slim\Slim->call()
+#7 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Middleware/MethodOverride.php(92): Slim\Middleware\Flash->call()
+#8 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#9 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1302): Slim\Middleware\PrettyExceptions->call()
+#10 /home/minihosting/public_html/bitcoinmini.com/index.php(17): Slim\Slim->run()
+#11 {main}
+[18-Jan-2016 05:40:49 UTC] exception 'Slim\Exception\Stop' in /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php:1022
+Stack trace:
+#0 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1042): Slim\Slim->stop()
+#1 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1105): Slim\Slim->halt(302)
+#2 /home/minihosting/public_html/bitcoinmini.com/app/routes/inc/shipping.php(53): Slim\Slim->redirect('/checkout_detai...')
+#3 [internal function]: {closure}()
+#4 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Route.php(468): call_user_func_array(Object(Closure), Array)
+#5 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1357): Slim\Route->dispatch()
+#6 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Middleware/Flash.php(85): Slim\Slim->call()
+#7 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Middleware/MethodOverride.php(92): Slim\Middleware\Flash->call()
+#8 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php(67): Slim\Middleware\MethodOverride->call()
+#9 /home/minihosting/public_html/bitcoinmini.com/vendor/slim/slim/Slim/Slim.php(1302): Slim\Middleware\PrettyExceptions->call()
+#10 /home/minihosting/public_html/bitcoinmini.com/index.php(17): Slim\Slim->run()
+#11 {main}
